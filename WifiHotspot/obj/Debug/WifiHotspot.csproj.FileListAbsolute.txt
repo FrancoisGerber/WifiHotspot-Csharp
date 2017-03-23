@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\bin\Debug\WifiHotspot.exe.config
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.Form1.resources
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\bin\Debug\WifiHotspot.exe
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\bin\Debug\WifiHotspot.pdb
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.exe
+C:\Users\ADMIN\Desktop\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.pdb
